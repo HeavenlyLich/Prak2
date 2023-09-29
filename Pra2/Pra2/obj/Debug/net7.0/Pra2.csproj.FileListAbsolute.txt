@@ -1,0 +1,15 @@
+C:\Users\Heavenly_lich\source\repos\Pra2\Pra2\bin\Debug\net7.0\Pra2.exe
+C:\Users\Heavenly_lich\source\repos\Pra2\Pra2\bin\Debug\net7.0\Pra2.deps.json
+C:\Users\Heavenly_lich\source\repos\Pra2\Pra2\bin\Debug\net7.0\Pra2.runtimeconfig.json
+C:\Users\Heavenly_lich\source\repos\Pra2\Pra2\bin\Debug\net7.0\Pra2.dll
+C:\Users\Heavenly_lich\source\repos\Pra2\Pra2\bin\Debug\net7.0\Pra2.pdb
+C:\Users\Heavenly_lich\source\repos\Pra2\Pra2\obj\Debug\net7.0\Pra2.csproj.AssemblyReference.cache
+C:\Users\Heavenly_lich\source\repos\Pra2\Pra2\obj\Debug\net7.0\Pra2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heavenly_lich\source\repos\Pra2\Pra2\obj\Debug\net7.0\Pra2.AssemblyInfoInputs.cache
+C:\Users\Heavenly_lich\source\repos\Pra2\Pra2\obj\Debug\net7.0\Pra2.AssemblyInfo.cs
+C:\Users\Heavenly_lich\source\repos\Pra2\Pra2\obj\Debug\net7.0\Pra2.csproj.CoreCompileInputs.cache
+C:\Users\Heavenly_lich\source\repos\Pra2\Pra2\obj\Debug\net7.0\Pra2.dll
+C:\Users\Heavenly_lich\source\repos\Pra2\Pra2\obj\Debug\net7.0\refint\Pra2.dll
+C:\Users\Heavenly_lich\source\repos\Pra2\Pra2\obj\Debug\net7.0\Pra2.pdb
+C:\Users\Heavenly_lich\source\repos\Pra2\Pra2\obj\Debug\net7.0\Pra2.genruntimeconfig.cache
+C:\Users\Heavenly_lich\source\repos\Pra2\Pra2\obj\Debug\net7.0\ref\Pra2.dll
